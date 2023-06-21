@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Full-stack Web Development || Computer Science**
+- 🌱 I’m currently learning **Frontend Development || Computer Science**
 
-- 💻 I mainly code in **Javascript/Typescript**
+- 💻 I mainly code in **Java/Python**
  
 - 😄 Pronouns: **he/him**  
 
@@ -40,3 +40,11 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
 
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+  
+   <a href="https://www.instagram.com/soumava221b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:soumavadas22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/soumava-d-634820196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Soumava_221B" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</p>
