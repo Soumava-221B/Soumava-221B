@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 [![Soumava-221B's GitHub | Stats](https://stats.quine.sh/Soumava-221B/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumava-221B)
 
+[![Soumava-221B's GitHub | Topics Over Time](https://stats.quine.sh/Soumava-221B/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumava-221B)
+
 <h3 align="left">:man:Social:</h3>
 <p align="left">
   
