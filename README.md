@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -58,12 +56,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <h3 align="left">:man:Social:</h3>
 <p align="left">
