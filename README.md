@@ -59,7 +59,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Soumava-221B's GitHub | Stats](https://stats.quine.sh/Soumava-221B/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumava-221B)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h3 align="left">:man:Social:</h3>
 <p align="left">
