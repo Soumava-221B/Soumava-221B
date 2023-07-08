@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b)
+
 <h3 align="left">:man:Social:</h3>
 <p align="left">
   
