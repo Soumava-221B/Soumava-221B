@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
-
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
+-->
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
