@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Soumava Das</h1>
-<h3 align="center">Software Developer || Senior computer Science Student</h3>
+<h3 align="center">Full Stack Developer || Senior computer Science Student</h3>
 
 
 #### 👨🏻‍💻  About Me
 
 
 
-- 🌱 I’m currently learning **Frontend Development || Computer Science**
+- 🌱 I’m currently learning **MERN Stack || Computer Science**
 
-- 💻 I mainly code in **Java/Python**
+- 💻 I mainly code in **JavaScript/Java**
  
 - 😄 Pronouns: **he/him**  
 
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 
 
 
-<!--<p align="center">
+<p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&locale=en&theme=radical" alt="Soumava-221B" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&theme=radical" alt="Soumava-221B" />
 </p>
--->
 
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
--->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
+
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -56,14 +56,6 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&theme=radical&line_height=27"/>
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
 
 <h3 align="center"> Holopin badges : </h3>
 
