@@ -56,10 +56,12 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-<!--<h3 align="center"> Holopin badges : </h3>
+<h3 align="center"> Holopin badges : </h3>
 
-[![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b) -->
- 
+[![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b) 
+<h3>
+<a href="https://app.daily.dev/soumavadas221b"><img src="https://api.daily.dev/devcards/v2/H6baxu15RA3lquFA2UNvS.png?type=default&r=2dx" width="356" alt="Soumava Das's Dev Card"/></a>
+ </h3>
 <h3 align="left">:man:Social:</h3>
 <p align="left">
   
