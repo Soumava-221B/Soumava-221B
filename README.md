@@ -56,6 +56,15 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&theme=radical&line_height=27"/>
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
 <h3 align="center"> Holopin badges : </h3>
 
 [![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b) 
