@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&locale=en&theme=radical" alt="Soumava-221B" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&theme=radical" alt="Soumava-221B" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&theme=radical" alt="Soumava-221B" /> -->
 </p>
 
 
