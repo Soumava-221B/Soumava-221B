@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Soumava Das</h1>
-<h3 align="center">Full Stack Developer || Senior computer Science Student</h3>
+<h3 align="center">Full Stack Developer || Freelance</h3>
 
 
 #### 👨🏻‍💻  About Me
 
 
 
-- 🌱 I’m currently learning **MERN Stack || Computer Science**
+- 🌱 I’m currently learning **Full Stack || Computer Science**
 
-- 💻 I mainly code in **JavaScript/Java**
+- 💻 I mainly code in **JavaScript/TypeScrpt/Java/PHP**
  
 - 😄 Pronouns: **he/him**  
 
