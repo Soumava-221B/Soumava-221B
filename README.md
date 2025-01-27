@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack || Computer Science**
 
-- 💻 I mainly code in **JavaScript/TypeScrpt/Java/PHP**
+- 💻 I mainly code in **JavaScript/TypeScrpt/Java**
  
 - 😄 Pronouns: **he/him**  
 
