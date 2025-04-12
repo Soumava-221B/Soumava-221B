@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Soumava Das</h1>
-<h3 align="center">Front-end || Open Source Contributor || Looking for full time opportunity to work for a compnay</h3>
+<h3 align="center">Front-end || Open Source Contributor || Looking for full time opportunity</h3>
 
 
 #### 👨🏻‍💻  About Me
