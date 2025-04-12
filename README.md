@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Soumava Das</h1>
-<h3 align="center">Full Stack Developer || Freelance</h3>
+<h3 align="center">Front-end || Open Source Contributor || Looking for full time opportunity to work for a compnay</h3>
 
 
 #### 👨🏻‍💻  About Me
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack || Computer Science**
 
-- 💻 I mainly code in **JavaScript/TypeScrpt/Java**
+- 💻 I mainly code in **JavaScript/Python/Java**
  
 - 😄 Pronouns: **he/him**  
 
