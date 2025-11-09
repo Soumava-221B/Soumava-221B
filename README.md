@@ -105,6 +105,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Soumava_221B" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>
 
-<a href="https://www.buymeacoffee.com/soumavadas" target="_blank">
+<!-- <a href="https://www.buymeacoffee.com/soumavadas" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
-</a>
+</a> -->
