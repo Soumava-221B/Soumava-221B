@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Full Stack || Computer Science**
+- 🌱 I’m currently **Full Stack Developer || Looking for opportunites**
 
 - 💻 I mainly code in **JavaScript/Python/Java**
  
