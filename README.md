@@ -80,11 +80,18 @@ Here are some ideas to get you started:
 
 [![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Render](https://img.shields.io/badge/render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 ### 🗄️ Databases
 
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### 🔗 ORMS
+
+[![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Alembic](https://img.shields.io/badge/alembic-%23000000?style=for-the-badge&logo=python&logoColor=white)](https://alembic.sqlalchemy.org/)
 
 ### 🔧 Tools & Version Control
 
