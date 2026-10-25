@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently **Full Stack Developer || Looking for opportunites**
 
 - 💻 I mainly code in **JavaScript/Python/Java**
- 
+
 - 😄 Pronouns: **he/him**  
 
 - 📫 How to reach me **soumavadas22@gmail.com**
@@ -87,6 +87,8 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech)
+[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)
 
 ### 🔗 ORMS
 
@@ -105,6 +107,10 @@ Here are some ideas to get you started:
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+
+### 🛠️ Tools & Platforms
+
+[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)
 
 ### 🎨 Design & Practice
 
@@ -132,7 +138,7 @@ Here are some ideas to get you started:
 [![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b)  -->
 <h3 align="left">:man:Social:</h3>
 <p align="left">
-  
+
    <a href="https://www.instagram.com/soumava221b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/soumava-d-634820196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Soumava_221B" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
