@@ -1,149 +1,134 @@
-<!--
-**Soumava-221B/Soumava-221B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4539,50:0E5484,100:38BDAE&height=200&section=header&text=Soumava%20Das&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-
-<h1 align="center">Hi 👋, I'm Soumava Das</h1>
-<h3 align="center"> Open Source Contributor || Looking for full time opportunity</h3>
-
-
-#### 👨🏻‍💻  About Me
-
-
-
-- 🌱 I’m currently **Full Stack Developer || Looking for opportunites**
-
-- 💻 I mainly code in **JavaScript/Python/Java**
-
-- 😄 Pronouns: **he/him**  
-
-- 📫 How to reach me **soumavadas22@gmail.com**
-
-
-
-
-
-<!--
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&locale=en&theme=radical" alt="Soumava-221B" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumava-221B&theme=radical" alt="Soumava-221B" /> 
-</p> 
--->
+  <a href="https://soumavadas.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDAE&center=true&vCenter=true&width=680&lines=Python+%2F+FastAPI+%C2%B7+React+%C2%B7+Android+(Kotlin);I+build+production+systems+end+to+end;APIs+%E2%86%92+Dashboards+%E2%86%92+Native+Mobile;Open+to+full-time+opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
-
-<!--
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&show_icons=true&locale=en&layout=compact&theme=radical" alt="Soumava-221B" /></p>
-
-<h3 align="left">🧰 Languages and Tools:</h3>
+<!-- ===== SOCIAL ===== -->
 <p align="center">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
-</p> -->
-## 🚀 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![JSON](https://img.shields.io/badge/json-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-
-### ⚙️ Frameworks & Libraries
-
-[![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
-
-### 🧠 Backend & Package Managers
-
-[![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-
-### ☁️ Deployment
-
-[![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Render](https://img.shields.io/badge/render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-
-### 🗄️ Databases
-
-[![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech)
-[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)
-
-### 🔗 ORMS
-
-[![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Alembic](https://img.shields.io/badge/alembic-%23000000?style=for-the-badge&logo=python&logoColor=white)](https://alembic.sqlalchemy.org/)
-
-### 🔧 Tools & Version Control
-
-[![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
-
-### 🧑‍💻 Editors & OS
-
-[![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-
-### 🛠️ Tools & Platforms
-
-[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)
-
-### 🎨 Design & Practice
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io)
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com)
-[![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://www.gitpod.io)
-
-### 🧪 Coding Practice Platforms
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com)
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org)
-
-### 🔐 State & Auth
-
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+  <a href="https://soumavadas.dev/"><img src="https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/soumavadas22/"><img src="https://img.shields.io/badge/LinkedIn-0E5484?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:soumavadas22@gmail.com"><img src="https://img.shields.io/badge/Email-38BDAE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Soumava-221B&style=for-the-badge&color=0F4539&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 <br />
 
-<!-- <h3 align="center"> Holopin badges : </h3>
+<!-- ===== ABOUT ===== -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/SAMIR-SHRESTHA/SAMIR-SHRESTHA/main/assets/coding.gif" alt="" />
 
-[![An image of @soumava_221b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumava_221b)](https://holopin.io/@soumava_221b)  -->
-<h3 align="left">:man:Social:</h3>
-<p align="left">
+### &nbsp;👨🏻‍💻 About me
 
-   <a href="https://www.instagram.com/soumava221b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/soumava-d-634820196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Soumava_221B" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+```yaml
+name:      Soumava Das
+role:      Full Stack Developer
+location:  Bengaluru, India
+pronouns:  he/him
+
+currently: Architecting SIA Health — a health-coaching
+           platform spanning a FastAPI/PostgreSQL backend,
+           a React admin portal in daily production use,
+           and a Kotlin Android app bound for the Play Store.
+
+focus:     [ backend architecture, native Android, open source ]
+open_to:   full-time opportunities
+```
+
+<br clear="right" />
+
+<!-- ===== PROJECTS ===== -->
+
+ 🚀 What I’m building
+<table>
+<tr>
+<td width="33%" valign="top">
+<h4 align="center">SIA Health</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+<p align="center"><sub>Health & fitness coaching platform — backend, admin portal and Android client.<br /><b>570+ commits · 100+ merged PRs</b></sub></p>
+</td>
+<!-- <td width="33%" valign="top">
+<h4 align="center"><a href="https://github.com/VocaHQ/vocaphone">VocaPhone</a></h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+</p>
+<p align="center"><sub>On-device voice dictation for Android.<br /><b>Shipped the usage statistics feature</b></sub></p>
+</td>
+<td width="33%" valign="top">
+<h4 align="center"><a href="https://rsvp.kim">RSVP</a></h4>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+<p align="center"><sub>Open-source event management platform.<br /><b>20+ merged PRs across v0.5–v0.7</b></sub></p>
+</td> -->
+</tr>
+</table>
+
+<!-- ===== TECH STACK ===== -->
+
+ 🛠️ Tech stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,typescript,javascript,kotlin,java,react,nextjs,nodejs,express,django&theme=dark" alt="" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,github,gradle,tailwind,vite,linux&theme=dark" alt="" />
 </p>
 
-<!-- <a href="https://www.buymeacoffee.com/soumavadas" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
-</a> -->
+<details>
+<summary> <b>Full breakdown</b></summary>
+<br />
+
+Area	Technologies
+Languages	Python · TypeScript · JavaScript · Kotlin · Java · SQL
+Backend	FastAPI · SQLAlchemy · Alembic · Pydantic · Node.js · Express · Django · REST · GraphQL · JWT · OAuth 2.0
+Frontend	React 19 · Next.js · Vite · Redux · React Router · Tailwind CSS
+Mobile	Jetpack Compose · MVVM · Hilt · Retrofit · Coroutines · WorkManager · DataStore
+Data	PostgreSQL · MySQL · MongoDB · Prisma · SQLAlchemy
+Testing	Pytest · Vitest · Playwright · JUnit · Jest
+Ops	Docker · Caddy · GitHub Actions · Railway · Vercel · Linux
+</details>
+
+<!-- ===== STATS ===== -->
+
+ 📊 GitHub
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDAE&title_color=38BDAE" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumava-221B&show_icons=true&hide_border=true&title_color=0E5484&icon_color=0F4539" alt="GitHub stats" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Soumava-221B&hide_border=true&theme=tokyonight&ring=38BDAE&fire=38BDAE" />
+<img width="48%" src="https://streak-stats.demolab.com?user=Soumava-221B&hide_border=true&ring=0E5484&fire=0F4539" alt="Streak" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDAE&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&layout=compact&hide_border=true&title_color=0E5484&langs_count=8" alt="Top languages" />
+</picture>
+</p>
+
+<!-- ===== OPEN SOURCE 
+
+ 🌱 Open source
+<p align="center">
+<b>40+ merged pull requests</b> across
+<a href="https://github.com/simple-icons/simple-icons">simple-icons</a> ·
+<a href="https://github.com/VocaHQ/vocaphone">VocaPhone</a> ·
+<a href="https://github.com/TeamShiksha">Team Shiksha</a> ·
+<a href="https://github.com/dallassoftwaredevelopers/DSDsite">DSDsite</a>
+</p>
+===== -->
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,50:0E5484,100:0F4539&height=120&section=footer" alt="" />
+
