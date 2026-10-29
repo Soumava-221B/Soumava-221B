@@ -96,7 +96,7 @@ Testing	Pytest · Vitest · Playwright · JUnit · Jest
 Ops	Docker · Caddy · GitHub Actions · Railway · Vercel · Linux
 </details>
 
-<!-- ===== STATS ===== -->
+<!-- ===== STATS 
 
  📊 GitHub
 <p align="center">
@@ -116,6 +116,7 @@ Ops	Docker · Caddy · GitHub Actions · Railway · Vercel · Linux
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumava-221B&layout=compact&hide_border=true&title_color=0E5484&langs_count=8" alt="Top languages" />
 </picture>
 </p>
+===== -->
 
 <!-- ===== OPEN SOURCE 
 
